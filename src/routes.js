@@ -11,7 +11,7 @@ function Routes(){
         <BrowserRouter>
         <Switch>
 
-            <Route path="/start" exact  component={Start}></Route>
+            <Route exact path="/start" component={Start}></Route>
         
             <Route path="/main" exact component={Main}></Route>
         
