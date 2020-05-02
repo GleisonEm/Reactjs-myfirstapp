@@ -1,5 +1,5 @@
 import React from 'react';
-import './styless.css';
+//import './styless.css';
 
 
 function Start() {
